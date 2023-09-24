@@ -1,0 +1,34 @@
+<Students>
+<Student>
+<SL_NO>23</SL_NO>
+<NAME>John Carter</NAME>
+<ADMITION_DATE>
+<day>25</day>
+<mounth>12</mounth>
+<year>2015</year>
+</ADMITION_DATE>
+</Student>
+
+<Student>
+<SL_NO>29</SL_NO>
+<NAME>Bob Marshal </NAME>
+<ADMITION_DATE>
+<day>13</day>
+<mounth>01</mounth>
+<year>1999</year>
+
+</ADMITION_DATE>
+</Student>
+
+<Student>
+<SL_NO>35</SL_NO>
+<NAME>Clark Kent </NAME>
+<ADMITION_DATE>
+<day>17</day>
+<mounth>06</mounth>
+<year>2005</year>
+
+</ADMITION_DATE>
+</Student>
+</Students>
+
